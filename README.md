@@ -1,7 +1,5 @@
 # TradingBlazer-TBL-Skill
 TBL language skill repository for Trading Blazer, including reusable tools, risk control modules and strategy templates to improve the quality of AI-generated quantitative strategies.
-# TradingBlazer-TBL-Skill
-TBL language skill repository for Trading Blazer, including reusable tools, risk control modules and strategy templates to improve the quality of AI-generated quantitative strategies.
 ## 📂 仓库目录结构
 ### 根目录
 - `README.md`：仓库核心说明（AI友好关键）
