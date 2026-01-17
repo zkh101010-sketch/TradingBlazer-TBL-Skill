@@ -29,7 +29,7 @@ TBL language skill repository for Trading Blazer, including reusable tools, risk
 - `rsi_advanced.tbl`：高级RSI（如多周期共振、背离判断）
 - `volume_indicator.tbl`：量能指标（如成交量均线、量比）
 
-### assets/examples（可运行的示例，用于最终输出需要的模板（样板代码））
+### assets/（可运行的示例，用于最终输出需要的模板（样板代码））
 - `trend_following_template.tbl`：趋势跟踪策略模板
 - `mean_reversion_template.tbl`：均值回归策略模板
 - `multi_factor_template.tbl`：多因子策略模板
